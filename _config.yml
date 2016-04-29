@@ -1,7 +1,7 @@
 name: roasterscoffee
 favicon: null
-layout_spectrum: 0.9060677476227283
-typography_spectrum: 0.5637671379372478
+layout_spectrum: 0.53803
+typography_spectrum: 0.60929
 title: Roasters Coffee
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9588975904043764
+    - '#fcf8ed'
+    - '#000000'
+    - '#3d342f'
+    - '#9b1629'
+    - '#7f7a80'
+  brandStrength: 0.8125
   lightness: 0.9926799428649247
-  saturation: 0.20814420329406857
+  saturation: 0.125
   rhythmicContrast: 0.8549014599993825
 purpose: []
