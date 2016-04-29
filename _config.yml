@@ -1,0 +1,28 @@
+name: roasterscoffee
+favicon: null
+layout_spectrum: 0.9060677476227283
+typography_spectrum: 0.5637671379372478
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9588975904043764
+  lightness: 0.9926799428649247
+  saturation: 0.20814420329406857
+  rhythmicContrast: 0.8549014599993825
+purpose: []
