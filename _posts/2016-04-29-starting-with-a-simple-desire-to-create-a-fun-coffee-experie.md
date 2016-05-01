@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Starting with a simple desire to create a fun coffee experience for the customer Roasters Coffee found a thriving community of people. That community created momentum one cup of coffee at a time and helped Roasters expand its reach. Year after year Roaster began to learn more about serving people, crafting quality products, and provided a fantastic culture. '
-datePublished: '2016-04-29T19:35:35.539Z'
-dateModified: '2016-04-29T19:34:41.854Z'
+datePublished: '2016-05-01T09:31:22.769Z'
+dateModified: '2016-04-29T19:38:21.877Z'
 title: ''
 author: []
 authors: []
@@ -26,4 +26,4 @@ Starting with a simple desire to create a fun coffee experience for the customer
 
 It was through multiple years of experimentation and passion that Roasters truly found its identity in the coffee world. What started as a simple desire with a few baristas and a handful of customers has evolved into a massive coffee empire in the heart of Tri-Cities, Wa.
 
-The customer that calls Roasters its coffee shop is truly the energy and love that keeps its doors revolving.
+The customer that calls Roasters its coffee shop is truly the energy and love that keeps its doors revolving. As long as there are fine people that desire to be served Roasters will always exist. We exist to serve.
